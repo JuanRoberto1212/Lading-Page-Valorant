@@ -49,7 +49,7 @@ Este projeto é uma página web dedicada ao jogo Valorant, desenvolvido pela Rio
 ## Instruções para Executar o Projeto
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/JuanRoberto1212/Lading-Page-Valorant.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
